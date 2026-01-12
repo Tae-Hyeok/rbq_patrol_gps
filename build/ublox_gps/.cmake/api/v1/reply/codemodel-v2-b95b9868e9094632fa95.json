@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-802936e10ebfa13efc0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ublox_gps",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ublox_gps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ublox_gps-3c6e1fb370a4cce550fd.json",
+					"name" : "ublox_gps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ublox_gps_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ublox_gps_node-fdeea87b51ec0be3ee1a.json",
+					"name" : "ublox_gps_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ublox_gps_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ublox_gps_uninstall-0a1ca9e356291da4d60d.json",
+					"name" : "ublox_gps_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ublox_logger::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ublox_logger-de0c6571f8b35e292d76.json",
+					"name" : "ublox_logger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a7655a7d67a169be6ca2.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dev/gps_setting_ws/build/ublox_gps",
+		"source" : "/home/dev/gps_setting_ws/src/ublox/ublox_gps"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,28 @@
+[0.940s] Invoking command in '/home/dev/gps_setting_ws/src/rbq_patrol': PYTHONPATH=/home/dev/gps_setting_ws/build/rbq_patrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rbq_patrol build --build-base /home/dev/gps_setting_ws/build/rbq_patrol/build install --record /home/dev/gps_setting_ws/build/rbq_patrol/install.log --single-version-externally-managed install_data
+[1.101s] running egg_info
+[1.102s] writing ../../build/rbq_patrol/rbq_patrol.egg-info/PKG-INFO
+[1.102s] writing dependency_links to ../../build/rbq_patrol/rbq_patrol.egg-info/dependency_links.txt
+[1.102s] writing entry points to ../../build/rbq_patrol/rbq_patrol.egg-info/entry_points.txt
+[1.102s] writing requirements to ../../build/rbq_patrol/rbq_patrol.egg-info/requires.txt
+[1.102s] writing top-level names to ../../build/rbq_patrol/rbq_patrol.egg-info/top_level.txt
+[1.104s] reading manifest file '../../build/rbq_patrol/rbq_patrol.egg-info/SOURCES.txt'
+[1.105s] writing manifest file '../../build/rbq_patrol/rbq_patrol.egg-info/SOURCES.txt'
+[1.105s] running build
+[1.105s] running build_py
+[1.105s] copying trajectory/receiver.py -> /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/trajectory
+[1.105s] copying trajectory/cmd.py -> /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/trajectory
+[1.105s] running install
+[1.106s] running install_lib
+[1.106s] copying /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/trajectory/receiver.py -> /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory
+[1.106s] copying /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/trajectory/cmd.py -> /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory
+[1.107s] byte-compiling /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory/receiver.py to receiver.cpython-310.pyc
+[1.107s] byte-compiling /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory/cmd.py to cmd.cpython-310.pyc
+[1.108s] running install_data
+[1.108s] running install_egg_info
+[1.109s] removing '/home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/rbq_patrol-0.0.0-py3.10.egg-info' (and everything under it)
+[1.110s] Copying ../../build/rbq_patrol/rbq_patrol.egg-info to /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/rbq_patrol-0.0.0-py3.10.egg-info
+[1.110s] running install_scripts
+[1.127s] Installing cmd script to /home/dev/gps_setting_ws/install/rbq_patrol/lib/rbq_patrol
+[1.127s] Installing receiver script to /home/dev/gps_setting_ws/install/rbq_patrol/lib/rbq_patrol
+[1.127s] writing list of installed files to '/home/dev/gps_setting_ws/build/rbq_patrol/install.log'
+[1.152s] Invoked command in '/home/dev/gps_setting_ws/src/rbq_patrol' returned '0': PYTHONPATH=/home/dev/gps_setting_ws/build/rbq_patrol/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rbq_patrol build --build-base /home/dev/gps_setting_ws/build/rbq_patrol/build install --record /home/dev/gps_setting_ws/build/rbq_patrol/install.log --single-version-externally-managed install_data

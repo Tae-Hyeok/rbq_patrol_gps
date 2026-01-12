@@ -1,0 +1,4 @@
+[console_scripts]
+cmd = trajectory.cmd:main
+receiver = trajectory.receiver:main
+

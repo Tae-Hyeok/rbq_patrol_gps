@@ -1,0 +1,5 @@
+  File "/home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory/cmd.py", line 26
+    if not line: continue
+                 ^^^^^^^^
+SyntaxError: 'continue' not properly in loop
+

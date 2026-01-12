@@ -1,0 +1,70 @@
+[0.008s] Invoking command in '/home/dev/gps_setting_ws/build/ublox_gps': CMAKE_PREFIX_PATH=/home/dev/gps_setting_ws/install/ublox_msgs:/home/dev/gps_setting_ws/install/ublox_serialization:/home/dev/gps_setting_ws/install/ublox:/home/dev/gps_setting_ws/install/ublox_gps:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_examples:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_driver:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_description:/home/dev/gps_setting_ws/install/rbq_patrol:/home/dev/gps_setting_ws/install/ntrip_client:/opt/ros/humble LD_LIBRARY_PATH=/home/dev/gps_setting_ws/install/ublox_msgs/lib:/home/dev/gps_setting_ws/install/ublox_gps/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/dev/gps_setting_ws/build/ublox_gps -- -j16 -l16
+[0.079s] [ 77%] Built target ublox_gps
+[0.101s] [ 90%] Built target ublox_logger
+[0.103s] [100%] Built target ublox_gps_node
+[0.111s] Invoked command in '/home/dev/gps_setting_ws/build/ublox_gps' returned '0': CMAKE_PREFIX_PATH=/home/dev/gps_setting_ws/install/ublox_msgs:/home/dev/gps_setting_ws/install/ublox_serialization:/home/dev/gps_setting_ws/install/ublox:/home/dev/gps_setting_ws/install/ublox_gps:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_examples:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_driver:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_description:/home/dev/gps_setting_ws/install/rbq_patrol:/home/dev/gps_setting_ws/install/ntrip_client:/opt/ros/humble LD_LIBRARY_PATH=/home/dev/gps_setting_ws/install/ublox_msgs/lib:/home/dev/gps_setting_ws/install/ublox_gps/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/dev/gps_setting_ws/build/ublox_gps -- -j16 -l16
+[0.113s] Invoking command in '/home/dev/gps_setting_ws/build/ublox_gps': CMAKE_PREFIX_PATH=/home/dev/gps_setting_ws/install/ublox_msgs:/home/dev/gps_setting_ws/install/ublox_serialization:/home/dev/gps_setting_ws/install/ublox:/home/dev/gps_setting_ws/install/ublox_gps:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_examples:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_driver:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_description:/home/dev/gps_setting_ws/install/rbq_patrol:/home/dev/gps_setting_ws/install/ntrip_client:/opt/ros/humble LD_LIBRARY_PATH=/home/dev/gps_setting_ws/install/ublox_msgs/lib:/home/dev/gps_setting_ws/install/ublox_gps/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/dev/gps_setting_ws/build/ublox_gps
+[0.118s] -- Install configuration: ""
+[0.118s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/lib/libublox_gps.so
+[0.118s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/lib/ublox_gps/ublox_gps_node
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/lib/ublox_gps/ublox_logger
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/raw_data_pa.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/hp_pos_rec_product.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_firmware7plus.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/tim_product.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_firmware7.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/mkgmtime.h
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_firmware6.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_firmware9.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/fts_product.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/hpg_rov_product.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/adr_udr_product.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/rtcm.hpp
+[0.119s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/fix_diagnostic.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/node.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/worker.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_firmware8.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/gps.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_topic_diagnostic.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/utils.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/hpg_ref_product.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/raw_data_product.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/async_worker.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/ublox_firmware.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/component_interface.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/gnss.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/include/ublox_gps/ublox_gps/callback.hpp
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/launch
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/launch/ublox_gps_node-composed-launch.py
+[0.120s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/launch/ublox_gps_node-launch.py
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/nmea.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/c94_m8p_rover.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/neo_m8u_rover.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/c94_m8p_base.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/zed_f9p.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/c94_m8t_rover.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/config/c94_m8t_base.yaml
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ament_index/resource_index/package_run_dependencies/ublox_gps
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ament_index/resource_index/parent_prefix_path/ublox_gps
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/environment/ament_prefix_path.sh
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/environment/ament_prefix_path.dsv
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/environment/path.sh
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/environment/path.dsv
+[0.121s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/local_setup.bash
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/local_setup.sh
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/local_setup.zsh
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/local_setup.dsv
+[0.122s] -- Installing: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/package.dsv
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ament_index/resource_index/packages/ublox_gps
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ament_index/resource_index/rclcpp_components/ublox_gps
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/cmake/export_ublox_gpsExport.cmake
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/cmake/export_ublox_gpsExport-noconfig.cmake
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/cmake/ament_cmake_export_targets-extras.cmake
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/cmake/ublox_gpsConfig.cmake
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/cmake/ublox_gpsConfig-version.cmake
+[0.122s] -- Up-to-date: /home/dev/gps_setting_ws/install/ublox_gps/share/ublox_gps/package.xml
+[0.123s] Invoked command in '/home/dev/gps_setting_ws/build/ublox_gps' returned '0': CMAKE_PREFIX_PATH=/home/dev/gps_setting_ws/install/ublox_msgs:/home/dev/gps_setting_ws/install/ublox_serialization:/home/dev/gps_setting_ws/install/ublox:/home/dev/gps_setting_ws/install/ublox_gps:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_examples:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_driver:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_description:/home/dev/gps_setting_ws/install/rbq_patrol:/home/dev/gps_setting_ws/install/ntrip_client:/opt/ros/humble LD_LIBRARY_PATH=/home/dev/gps_setting_ws/install/ublox_msgs/lib:/home/dev/gps_setting_ws/install/ublox_gps/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_rviz_plugins/lib:/home/dev/ex_rbq_simul/ROS2/RBQ/ros2/install/rbq_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/dev/gps_setting_ws/build/ublox_gps

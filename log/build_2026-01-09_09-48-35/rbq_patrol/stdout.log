@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/rbq_patrol/rbq_patrol.egg-info
+writing ../../build/rbq_patrol/rbq_patrol.egg-info/PKG-INFO
+writing dependency_links to ../../build/rbq_patrol/rbq_patrol.egg-info/dependency_links.txt
+writing entry points to ../../build/rbq_patrol/rbq_patrol.egg-info/entry_points.txt
+writing requirements to ../../build/rbq_patrol/rbq_patrol.egg-info/requires.txt
+writing top-level names to ../../build/rbq_patrol/rbq_patrol.egg-info/top_level.txt
+writing manifest file '../../build/rbq_patrol/rbq_patrol.egg-info/SOURCES.txt'
+reading manifest file '../../build/rbq_patrol/rbq_patrol.egg-info/SOURCES.txt'
+writing manifest file '../../build/rbq_patrol/rbq_patrol.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dev/gps_setting_ws/build/rbq_patrol/build
+creating /home/dev/gps_setting_ws/build/rbq_patrol/build/lib
+creating /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/rbq_patrol
+copying rbq_patrol/__init__.py -> /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/rbq_patrol
+running install
+running install_lib
+creating /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/rbq_patrol
+copying /home/dev/gps_setting_ws/build/rbq_patrol/build/lib/rbq_patrol/__init__.py -> /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/rbq_patrol
+byte-compiling /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/rbq_patrol/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/dev/gps_setting_ws/install/rbq_patrol/share/ament_index
+creating /home/dev/gps_setting_ws/install/rbq_patrol/share/ament_index/resource_index
+creating /home/dev/gps_setting_ws/install/rbq_patrol/share/ament_index/resource_index/packages
+copying resource/rbq_patrol -> /home/dev/gps_setting_ws/install/rbq_patrol/share/ament_index/resource_index/packages
+copying package.xml -> /home/dev/gps_setting_ws/install/rbq_patrol/share/rbq_patrol
+running install_egg_info
+Copying ../../build/rbq_patrol/rbq_patrol.egg-info to /home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/rbq_patrol-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/dev/gps_setting_ws/build/rbq_patrol/install.log'

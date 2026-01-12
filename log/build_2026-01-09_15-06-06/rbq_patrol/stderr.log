@@ -1,0 +1,5 @@
+  File "/home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory/receiver.py", line 77
+    if !self.gnss_fix_ok: return False
+       ^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,5 @@
+  File "/home/dev/gps_setting_ws/install/rbq_patrol/lib/python3.10/site-packages/trajectory/receiver.py", line 27
+    print(f"fix_type: {fix_type} {{0:'NO_FIX', 2:'2D', 3:'3D'}.get(fix_type, 'UNKNOWN')}")
+                                                                                         ^
+SyntaxError: f-string: single '}' is not allowed
+

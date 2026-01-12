@@ -1,0 +1,24 @@
+[0.918s] Invoking command in '/home/dev/gps_setting_ws/src/ntrip_client': PYTHONPATH=/home/dev/gps_setting_ws/build/ntrip_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/gps_setting_ws/install/ntrip_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ntrip_client build --build-base /home/dev/gps_setting_ws/build/ntrip_client/build install --record /home/dev/gps_setting_ws/build/ntrip_client/install.log --single-version-externally-managed install_data
+[1.119s] running egg_info
+[1.120s] writing ../../build/ntrip_client/ntrip_client.egg-info/PKG-INFO
+[1.120s] writing dependency_links to ../../build/ntrip_client/ntrip_client.egg-info/dependency_links.txt
+[1.120s] writing requirements to ../../build/ntrip_client/ntrip_client.egg-info/requires.txt
+[1.120s] writing top-level names to ../../build/ntrip_client/ntrip_client.egg-info/top_level.txt
+[1.122s] reading manifest file '../../build/ntrip_client/ntrip_client.egg-info/SOURCES.txt'
+[1.122s] adding license file 'LICENSE'
+[1.122s] writing manifest file '../../build/ntrip_client/ntrip_client.egg-info/SOURCES.txt'
+[1.123s] running build
+[1.123s] running build_py
+[1.123s] running build_scripts
+[1.123s] running install
+[1.123s] running install_lib
+[1.124s] running install_data
+[1.125s] running install_egg_info
+[1.128s] removing '/home/dev/gps_setting_ws/install/ntrip_client/lib/python3.10/site-packages/ntrip_client-1.4.0-py3.10.egg-info' (and everything under it)
+[1.128s] Copying ../../build/ntrip_client/ntrip_client.egg-info to /home/dev/gps_setting_ws/install/ntrip_client/lib/python3.10/site-packages/ntrip_client-1.4.0-py3.10.egg-info
+[1.128s] running install_scripts
+[1.142s] changing mode of /home/dev/gps_setting_ws/install/ntrip_client/lib/ntrip_client/ntrip_ros_base.py to 777
+[1.142s] changing mode of /home/dev/gps_setting_ws/install/ntrip_client/lib/ntrip_client/ntrip_serial_device_ros.py to 777
+[1.142s] changing mode of /home/dev/gps_setting_ws/install/ntrip_client/lib/ntrip_client/ntrip_ros.py to 777
+[1.144s] writing list of installed files to '/home/dev/gps_setting_ws/build/ntrip_client/install.log'
+[1.162s] Invoked command in '/home/dev/gps_setting_ws/src/ntrip_client' returned '0': PYTHONPATH=/home/dev/gps_setting_ws/build/ntrip_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev/gps_setting_ws/install/ntrip_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ntrip_client build --build-base /home/dev/gps_setting_ws/build/ntrip_client/build install --record /home/dev/gps_setting_ws/build/ntrip_client/install.log --single-version-externally-managed install_data
